@@ -6,7 +6,7 @@
 
 
 ## About me 
-I'm a full stack developer. I like to work with React, Firebase, AWS, MongoDB, NodeJS and Python. 
+I'm a full stack developer. I like to work with Angular, Firebase, AWS, NodeJS, Php . 
 I'm a open-source development enthusiast, an instructor and a freelancer.
 
 
@@ -17,22 +17,16 @@ I'm a open-source development enthusiast, an instructor and a freelancer.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/expoio/expoio-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
 
 
 ### Interesting stats
 
-![Anton Francis Jeejo's stats](https://github-readme-stats.vercel.app/api?username=antonfrancisjeejo&show_icons=true)
+![Sureshturbo stats](https://github-readme-stats.vercel.app/api?username=sureshturbo&show_icons=true)
