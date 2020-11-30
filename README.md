@@ -14,7 +14,7 @@ I'm a open-source development enthusiast, an instructor and a freelancer.
 ![run](https://media0.giphy.com/media/WfwzZpfH8Ejra/giphy.gif)
 
 ## Stack I work with
-<code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
